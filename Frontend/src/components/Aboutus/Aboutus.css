@@ -1,0 +1,10 @@
+.bkg-img{
+    background-image: url("https://c4.wallpaperflare.com/wallpaper/1017/319/794/5bd4c1035ade5-wallpaper-preview.jpg" );
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    color: white;
+}
